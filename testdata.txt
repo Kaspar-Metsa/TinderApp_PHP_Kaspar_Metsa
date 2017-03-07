@@ -1,0 +1,5 @@
+INSERT INTO kasparm26_11_users (username,password,gender,stry) VALUES ('asd','a','m','just testing');
+INSERT INTO kasparm26_11_users (username,password,gender,stry) VALUES ('asd2','a','f','just testing 2');
+
+INSERT INTO kasparm26_11_likes (user_liker,user_liked) VALUES (1,2);
+

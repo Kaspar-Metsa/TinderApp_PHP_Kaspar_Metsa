@@ -1,0 +1,14 @@
+img{
+	max-width: 100%;
+	height: auto;
+}
+p{
+	padding: 5px 10px;
+}
+dd{
+	margin-bottom: 10px;
+}
+input[type=number]{
+	width: 150px;
+	display: inline-block;
+}
