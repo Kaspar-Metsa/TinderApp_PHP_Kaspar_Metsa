@@ -1,6 +1,7 @@
 This is a TTU university project completed by me - a simple version of Tinder(dating website) using only PHP and MySQL.
 
 Please test the web application here: http://dijkstra.cs.ttu.ee/~Kaspar.Metsa/prax4/tinder/index.php
+
 *For testing*: please create account1, add a picture, select male, create account2, add a picture, 
 select female - now female and male can see and like each other, if both like each other then they are able to send private messages
 between them.
